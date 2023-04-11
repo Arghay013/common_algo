@@ -43,3 +43,5 @@ public:
         return v;
     }
 };
+
+//number of time a sorted array rotated = index number of the minimum value
